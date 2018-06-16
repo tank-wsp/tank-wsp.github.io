@@ -1,0 +1,123 @@
+body {
+  padding-top: 5rem;
+}
+
+.indiefont {
+	text-align: right;
+	font-family: 'Indie Flower', cursive;
+} 
+
+figcaption {
+	font-family: 'Gamja Flower', cursive;
+}
+
+p {
+	font-family: 'Gamja Flower', cursive;
+}
+
+.controller {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 300px;
+}
+.books {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 300px;
+}
+
+.maphands {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 300px;
+}
+
+
+.about {
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+ 
+ #aboutsection{
+ 	display: auto;
+ 	padding: 20px 20px 20px 20px; 
+    border-radius: 2%;
+}
+
+ .computerimage{
+ 	width: 100%;
+ 	padding:1px 1px 1px 1px;
+ 	border-radius: 1%;
+ 	border: 2px solid #grey;
+ }
+
+ .logo{
+ 	
+ 	text-align: left;
+ 	align-content: left;
+
+ }
+
+ footer {
+ 	text-align: center;
+ 	font-family: 'Indie Flower', cursive;
+ }
+
+	 
+
+ .work{
+ 	text-align: center;
+ 	font-family: 'Indie Flower', cursive;
+ }
+
+ #worksection{
+ 	display: block;
+ 	padding: 20px 20px 20px 20px; 
+ 	
+ 
+ 	border-radius: 2%;
+
+ }
+
+#contactsection{
+ 	display: block;
+ 	padding: 20px 20px 20px 20px; 
+ 	
+ 
+ 	border-radius: 2%;
+
+ }
+
+ .contact{
+ 	text-align: center;
+ 	font-family: 'Indie Flower', cursive;
+ }
+
+ hr {
+
+  	
+	border-bottom: 4px solid #89043D;
+
+
+
+}
+
+ 
+nav{
+	background-color: #7A75A5;
+}
+
+@media screen and (min-width: ){
+
+}
+
+@media screen and (min-width: ){
+	
+}
+
+@media screen and (min-width: ){
+	
+}
